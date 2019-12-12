@@ -1,8 +1,12 @@
 def say_hello(name)
-  puts "Hello #{Kent beck}!"
+  puts "Hello #{name}!"
+end
+or else
+  puts "Hello Ruby Programmer!"
 end
 
 say_hello ("Kent Beck!")
-or
+
+
 say_hello ("Ruby Programmer!")
 
