@@ -6,4 +6,3 @@ say_hello ("Kent Beck!")
 
 say_hello ("Ruby Programmer!")
 
-end
