@@ -3,7 +3,5 @@ def say_hello(name)
 end
 
  
-say_hello ("Kent Beck!")
-
-say_hello ("Ruby Programmer!")
+say_hello ("Kent Beck!"),("Ruby Programmer!")
 
