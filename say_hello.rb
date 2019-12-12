@@ -3,5 +3,7 @@ def say_hello(name)
 end
 
  
-say_hello ("Kent Beck!")or ("Ruby Programmer!")
+say_hello ("Kent Beck!")
+
+say_hello ("Ruby Programmer!")
 
